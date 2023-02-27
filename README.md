@@ -12,6 +12,10 @@ I needed to clone the repository and refactor the code to meet Acceptance Criter
 * Added a Readme
 * Deployed live url
 
+## Website
+
+https://cj-saurus.github.io/Horiseon/
+
 ## Screenshots
 
 <img src="./assets/images/Screenshot-01.png"/>
